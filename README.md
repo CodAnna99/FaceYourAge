@@ -2,7 +2,7 @@
 The goal of the project is to train a computer vision model on Edge Impulse to predict gender and age based on a person’s profile photo. This model will be integrated into a simple frontend with picture upload functionality, allowing for on-the-fly use without relying on on-premise installations.
 The models were trained on approx. 23k images, all labeled with their gender (female/male) and age (1-116) with a 80/20 test split. 
 
-Contributors: [@PhilippRamjoue](https://github.com/PhilippRamjoue ), [Philipp Harteneck](https://www.linkedin.com/in/philipp%2Dharteneck%2D1a682b2a/)
+Contributors: [Philipp Ramjoué](https://github.com/PhilippRamjoue ), [Philipp Harteneck](https://www.linkedin.com/in/philipp%2Dharteneck%2D1a682b2a/)
 
 
 
